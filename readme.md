@@ -1,0 +1,1 @@
+This is an application that will help pregnant mothers access information on pregnancy, medicine, diet and emergency services

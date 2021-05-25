@@ -1,0 +1,21 @@
+body{
+    margin: 0rem;
+    padding: 0rem;
+}
+
+.h1{
+    text-align: right;
+
+}
+.h2{
+    text-align: right;
+}
+
+.buttons{
+    float: right;
+
+}
+.img{
+    height: auto;
+    width:20%;
+}
